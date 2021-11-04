@@ -1,5 +1,5 @@
 
-## Oiii! Eu sou a Juliana Bitencourt 
+## Welcome! Eu sou a Juliana Bitencourt 
  <div>
 <div align="center">
   <a href="https://github.com/techjuliana">
