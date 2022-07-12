@@ -1,5 +1,5 @@
 
-## Em construção de projetos (Logo estarei postando) 
+## Em construção de projetos
  <div>
 <div align="center">
   <a href="https://github.com/techjuliana">
