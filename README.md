@@ -1,7 +1,7 @@
 
 <hr>
 <h4 align="center">
-Hi! I´m Juliana, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Oi! Eu sou Juliana, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <hr>
  
