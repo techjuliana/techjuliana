@@ -31,7 +31,7 @@ Oi! Eu sou Juliana, seja bem-vindo(a) ao meu perfil! <img src="https://media.gip
   
  
   <h4 align="center">
-Tecnologias que você encontrará por aqui>
+Tecnologias que você encontrará por aqui
 <div align="center"><br>
   <img align="center" alt="techjuliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="techjuliana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
