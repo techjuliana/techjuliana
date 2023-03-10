@@ -33,10 +33,6 @@ Oi! Eu sou Juliana, seja bem-vindo(a) ao meu perfil! <img src="https://media.gip
   <h4 align="center">
 Tecnologias que você encontrará por aqui
 <div align="center"><br>
-  <img align="center" alt="techjuliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="techjuliana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="techjuliana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="techjuliana-Angular" height="30" width="40" src="https://w7.pngwing.com/pngs/47/376/png-transparent-angular-angular-js-circle-js-programming-round-icon-popular-services-brands-vol-icon-thumbnail.png">
-  <img align="center" alt="techjuliana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="techjuliana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <h6>
+HTML - CSS - JAVASCRIPT - TYPESCRIPT - REACTJS - REACT NATIVE - ANGULAR - VUE
  <hr>
