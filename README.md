@@ -34,5 +34,5 @@ Oi! Eu sou Juliana, seja bem-vindo(a) ao meu perfil! <img src="https://media.gip
 Tecnologias que você encontrará por aqui
 <div align="center"><br>
  <h6>
-HTML - CSS - JAVASCRIPT - TYPESCRIPT - REACTJS - REACT NATIVE - ANGULAR - VUE
+HTML - CSS - JAVASCRIPT - TYPESCRIPT - REACTJS - REACT NATIVE - NEXT.JS - NODE.JS - ANGULAR - VUE
  <hr>
