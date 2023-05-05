@@ -11,13 +11,15 @@ Oi! Eu sou Juliana, seja bem-vindo(a) ao meu perfil! <img src="https://media.gip
  
 <div> 
  <div align="center">
+   <a href="*" target="_blank"><img src="https://img.shields.io/badge/-Curriculo-%fedcba?style=for-the-badge" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCb912uf3zcQO8eDl34HpLNQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/tech.juliana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/techjuliana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/techjuliana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
   <hr>
 
  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=techjuliana&left_color=green&right_color=red)
+ 
 
  
  <hr>
