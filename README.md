@@ -36,5 +36,6 @@ Oi! Eu sou Juliana, seja bem-vindo(a) ao meu perfil! <img src="https://media.gip
 Tecnologias que você encontrará por aqui
 <div align="center"><br>
  <h6>
-HTML - CSS - JAVASCRIPT - TYPESCRIPT - REACTJS - REACT NATIVE - NEXT.JS - REDUX - SASS - TAILWIND
+HTML - CSS - JAVASCRIPT - TYPESCRIPT - REACTJS - REACT NATIVE - NEXT.JS - REDUX - SASS - TAILWIND - CHAKRA UI - LOTTIE FILES - LOCAL STORAGE - LOCAL STORAGE - VITE
+  
  <hr>
