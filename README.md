@@ -1,5 +1,5 @@
 
-<hr>
+
 <h4 align="center">
 Oi! Eu sou Juliana, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -18,24 +18,38 @@ Oi! Eu sou Juliana, seja bem-vindo(a) ao meu perfil! <img src="https://media.gip
 </div>
   <hr>
 
- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=techjuliana&left_color=green&right_color=red)
- 
-
- 
- <hr>
- 
- <div>
-<div align="center">
-  <a href="https://github.com/techjuliana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techjuliana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techjuliana&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
  
   <h4 align="center">
-Tecnologias que você encontrará por aqui
-<div align="center"><br>
+Conhecimentos no Frontend
+<div align="center">
  <h6>
-HTML - CSS - JAVASCRIPT - TYPESCRIPT - NODE.JS - REACTJS - REACT NATIVE - NEXT.JS - REDUX - SASS - TAILWIND - CHAKRA UI - LOTTIE FILES - LOCAL STORAGE - VUE - VITE
+- React Native
+- React
+- Analytics
+- Redux
+- Next
+- JavaScript
+- TypeScript
+- SASS
+- Tailwind
+- Responsive
+- APIs
+- Styled Components
+- Jest
+- SandBox (testes de front)
+- AdMob (publi em app)
+  
+ <hr>
+  <h4 align="center">
+Conhecimento no Backend
+<div align="center">
+ <h6>
+- MongoDB
+- Google Cloud
+- FireBase
+- Strapi
+- Node
+- Criacao de APIs
   
  <hr>
